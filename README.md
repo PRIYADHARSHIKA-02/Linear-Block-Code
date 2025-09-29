@@ -95,6 +95,8 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
 # Output
 ![linear block code](https://github.com/user-attachments/assets/71f9cc59-2364-4b1c-a22f-2f9d5ad39b24)
+![WhatsApp Image 2025-09-28 at 22 07 50_8d4285d2](https://github.com/user-attachments/assets/ee8489a7-7d86-459e-b678-beabd9dfc653)
+![WhatsApp Image 2025-09-28 at 22 07 50_f9aeba5d](https://github.com/user-attachments/assets/aff05993-c1ef-4d11-989b-12ea0af0188f)
 # Results
 
 Thus linear block code operation for the given input is successfully verified.
