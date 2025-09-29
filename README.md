@@ -93,12 +93,9 @@ print(f"The error postion is : " + " ".join(map(str, err)))
 add = err + rc
 print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
-# Output Waveform
-```
-Attach the output waveform
-```
+# Output
+![linear block code](https://github.com/user-attachments/assets/71f9cc59-2364-4b1c-a22f-2f9d5ad39b24)
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+
+Thus linear block code operation for the given input is successfully verified.
+
